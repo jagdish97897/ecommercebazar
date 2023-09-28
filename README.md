@@ -1,67 +1,25 @@
-# E-Commerce Website
+# this is the home page of my website
+![MasterHead](https://github.com/jagdish97897/ecommercebazar/blob/main/Screenshot%202023-09-28%20232747.png)
 
-A Ecommerce Website made with React.js Framework.
+# this is the product page of my website by the help of this page user can buy the product and they can also go the add card by using this page  
+![MasterHead](https://github.com/jagdish97897/ecommercebazar/blob/main/Screenshot%202023-09-28%20232649.png)
 
+# this is the about page of my website
+![MasterHead](https://github.com/jagdish97897/ecommercebazar/blob/main/Screenshot%202023-09-28%20232607.png)
 
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
-
-## Features
-
-- Easy to integrate with Backend
-- Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+# this is the contact page of my website
+![MasterHead](https://github.com/jagdish97897/ecommercebazar/blob/main/Screenshot%202023-09-28%20232526.png)
+# this is the register page of my website 
+![MasterHead](https://github.com/jagdish97897/ecommercebazar/blob/main/Screenshot%202023-09-28%20232337.png)
 
 
 
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
-
-Go to the project directory
-
-```bash
-  cd React_E-Commerce
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
+# this is the login page of my website by using this page user can login with my website
+![MasterHead](https://github.com/jagdish97897/ecommercebazar/blob/main/Screenshot%202023-09-28%20232425.png)
 
 
 
-## Tech Stack
-
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
-
+# this is the card page of my website by the help of this page user can buy the product according to their use
+![MasterHead](https://github.com/jagdish97897/ecommercebazar/blob/main/Screenshot%202023-09-28%20232257.png)
 
